@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@juanedmr 
-juanedmr
-/
-scaffolding
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-scaffolding/.github/workflows/main.yml
-@juanedmr
-juanedmr Update main.yml
-Latest commit 2bc32c1 3 hours ago
- History
- 1 contributor
-29 lines (23 sloc)  477 Bytes
+
 
 name: Python 3.8
 
